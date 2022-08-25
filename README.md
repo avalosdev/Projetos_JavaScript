@@ -1,5 +1,5 @@
 # Projetos_JavaScript
-Aqui estão alguns projetos feitos em Html, css + JS
+Aqui estão alguns projetos, onde utilizamos Html, Css & JavaScript
 
 Projeto 01
 Site onde podemos reproduzir som de uma bateria
